@@ -41,10 +41,11 @@ I am a Young Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="C#" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
 ### :fire: My Stats :
-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TokySandratra&theme=dark)](https://git.io/streak-stats)
+- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Toky_Sandratra&theme=dark)](https://git.io/streak-stats)
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TokySandratra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
