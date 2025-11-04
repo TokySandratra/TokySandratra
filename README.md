@@ -24,7 +24,7 @@
 
 ### :man_technologist: About Me :
 I am a Young Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Madagascar. <img src="https://media.giphy.com/media/LS8tFXwKwxiVoJmKXO/giphy.gif" width="30"/>
-- :madagascar: I'm studying Informatics and Artificial Intelligence in ISPM or Madagascar's Superior Politechnic , actually in Third Year in Licence
+- :madagascar: I'm studying MIAGE in University of Lille, actually in Master one
 - :zap:I'm solving some algorithms in CodingGame 🤖 and work with friends on projects
 - :mailbox:How to reach me: [![Facebook Badges](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/toxx.T.san.10/)
 
