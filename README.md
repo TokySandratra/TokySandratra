@@ -1,9 +1,7 @@
 <div id="header" align="center">
    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXEwOGlsMTMybDFlbHN6bnJ1OTh3cTdmcjNjZjJiMnFtdzVtZGF0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLApQxMTmLh3c6zGe/giphy.gif" width="100"/> 
   <div id="badges">
-    <a href="https://www.facebook.com/toxx.T.san.10/">
-      <img src="https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge"/> 
-    </a>
+    
   <a href="https://portfolio-tawny-phi-20.vercel.app/">
      <p>My Portfolio</p>
   </a>
