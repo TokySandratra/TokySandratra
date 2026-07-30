@@ -4,9 +4,9 @@
     <a href="https://www.facebook.com/toxx.T.san.10/">
       <img src="https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge"/> 
     </a>
-    <a href="https://www.instagram.com/toky_sandratra/">
-      <img src="https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=white&style=for-the-badge" alt=" Instagram Badge"/>
-    </a>
+  <a href="https://portfolio-tawny-phi-20.vercel.app/">
+     <p>My Portfolio</p>
+  </a>
     <a href="https://discord.com/channels/@me">
       <img src="https://img.shields.io/badge/Discord-blue?logo=Discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/> 
     </a>
